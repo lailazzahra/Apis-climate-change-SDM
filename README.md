@@ -1,4 +1,4 @@
-**The Distribution of *Apis dorsata* in Southeast Asia Under Climate Change Prediction (SSP245 and SSP585)**
+**Projection of *Apis dorsata* Distribution in Southeast Asia Under Moderate (SSP245) and High (SSP585) Emmisions by 2050**
 
 
 
@@ -36,3 +36,12 @@ This project investigates how climate change may affect the distribution of *Api
 
 Most important predictor: BIO4 (Temperature Seasonality)
 
+**Repositories included**
+
+1. Final report (pdf)
+2. R files (rds, R.Data)
+3. _Apis dorsata_ current habitat suitability map, projected habitat suitability map under SSP245, projected habitat suitability map under SSP585 (png)
+4. Summary of R model (csv)__
+
+**Status**
+Independent study
